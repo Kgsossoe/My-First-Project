@@ -1,0 +1,15 @@
+{
+  "name": "nmp_ksossoe",
+  "version": "1.0.0",
+  "description": "The largest value in a list of numbers",
+  "main": "largestValue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "largest",
+    "value"
+  ],
+  "author": "Kodjovi Sossoe",
+  "license": "ISC"
+}

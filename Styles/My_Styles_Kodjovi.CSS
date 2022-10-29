@@ -1,8 +1,15 @@
 h1 {
+	font-family: 'Josefin Sans', sans-serif;
 	color: #800080;
 }
-body{
+body {
 	font-family: Verdana;
 	background-color:  rgb(200, 235, 216);
 }
+li {
+	font-family: 'Josefin Sans', sans-serif;
+}
+a {
+	font-family: 'Josefin Sans', sans-serif;
 
+}
